@@ -25,7 +25,7 @@ Podrian cambiarse a cualquier rubro
 
 # Adjunto imagenes
 
-![firstPAGE](https://github.com/Uboras/LogIn-ReactNative/blob/main/firstPAGE.png)
-![SecondPage](https://github.com/Uboras/LogIn-ReactNative/blob/main/SecondPage.png)
-![3PAGE](https://github.com/Uboras/LogIn-ReactNative/blob/main/3PAGE.png)
+![](https://github.com/Uboras/LogIn-ReactNative/blob/main/firstPAGE.png)  
+![](https://github.com/Uboras/LogIn-ReactNative/blob/main/SecondPage.png)  
+![](https://github.com/Uboras/LogIn-ReactNative/blob/main/3PAGE.png)  
 
