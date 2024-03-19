@@ -6,26 +6,26 @@ Pensado para una aplicacion de gastos personales.
 Adaptable para cualquier negocio o emprendimiento.
 
 
-### Contiene pantallas de:
+## Contiene pantallas de:
 
 
--Inicio de Sesion  
--Registro de usuario  
--Olvido de contraseña  
+### -Inicio de Sesion  
+### -Registro de usuario  
+### -Olvido de contraseña  
 
 
-### links preparados para:
+## links preparados para:
 
--Home (realizar)  
--Perfil(realizar)  
--gastos (realizar)  
--Ingresos (realizar)  
+### -Home (realizar)  
+### -Perfil(realizar)  
+### -gastos (realizar)  
+### -Ingresos (realizar)  
 
-Podrian cambiarse a cualquier rubro
+###Podrian cambiarse a cualquier rubro
 
 # Adjunto imagenes
 
-![](https://github.com/Uboras/LogIn-ReactNative/blob/main/firstPAGE.png)  
-![](https://github.com/Uboras/LogIn-ReactNative/blob/main/SecondPage.png)  
-![](https://github.com/Uboras/LogIn-ReactNative/blob/main/3PAGE.png)  
+![12](firstPAGE.png)  
+![2](SecondPage.png)  
+![12](3PAGE.png)  
 
