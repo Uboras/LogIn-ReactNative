@@ -25,7 +25,7 @@ Podrian cambiarse a cualquier rubro
 
 # Adjunto imagenes
 
-![Inicio Sesión](https://github.com/Uboras/LogIn-ReactNative/raw/main/IReadme/firstPAGE.tif)
-![Recupero Contraseña](https://github.com/Uboras/LogIn-ReactNative/blob/main/IReadme/SecondPage.tif)
-![Registro](https://github.com/Uboras/LogIn-ReactNative/raw/main/IReadme/3PAGE.tif)
+![Inicio Sesión](https://github.com/Uboras/LogIn-ReactNative/raw/main/IReadme/firstPAGE.png)
+![Recupero Contraseña](https://github.com/Uboras/LogIn-ReactNative/blob/main/IReadme/SecondPage.png)
+![Registro](https://github.com/Uboras/LogIn-ReactNative/raw/main/IReadme/3PAGE.png)
 
