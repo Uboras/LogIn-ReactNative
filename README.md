@@ -25,7 +25,7 @@ Adaptable para cualquier negocio o emprendimiento.
 
 # Adjunto imagenes
 
-![12](FirstPAGE.png)  
+![12](FirstPage.png)  
 ![2](SecondPage.png)  
 ![12](3PAGE.png)  
 
