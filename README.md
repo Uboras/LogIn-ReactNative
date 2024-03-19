@@ -9,23 +9,23 @@ Adaptable para cualquier negocio o emprendimiento.
 ### Contiene pantallas de:
 
 
--Inicio de Sesion
--Registro de usuario
--Olvido de contraseña
+-Inicio de Sesion  
+-Registro de usuario  
+-Olvido de contraseña  
 
 
-###links preparados para:
+### links preparados para:
 
--Home (realizar)
--Perfil(realizar)
--gastos (realizar)
--Ingresos (realizar)
+-Home (realizar)  
+-Perfil(realizar)  
+-gastos (realizar)  
+-Ingresos (realizar)  
 
 Podrian cambiarse a cualquier rubro
 
 # Adjunto imagenes
 
-![Inicio Sesión](firstPAGE.png)
-![Recupero Contraseña](SecondPage.png)
-![Registro](3PAGE.png)
+![firstPAGE](https://github.com/Uboras/LogIn-ReactNative/blob/main/firstPAGE.png)
+![SecondPage](https://github.com/Uboras/LogIn-ReactNative/blob/main/SecondPage.png)
+![3PAGE](https://github.com/Uboras/LogIn-ReactNative/blob/main/3PAGE.png)
 
