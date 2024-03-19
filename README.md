@@ -25,5 +25,7 @@ Podrian cambiarse a cualquier rubro
 
 # Adjunto imagenes
 
-![Descripción de la imagen](URL_de_la_imagen)
+![Inicio Sesión](https://github.com/Uboras/LogIn-ReactNative/raw/main/IReadme/firstPAGE.tif)
+![Recupero Contraseña](https://github.com/Uboras/LogIn-ReactNative/blob/main/IReadme/SecondPage.tif)
+![Registro](https://github.com/Uboras/LogIn-ReactNative/raw/main/IReadme/3PAGE.tif)
 
