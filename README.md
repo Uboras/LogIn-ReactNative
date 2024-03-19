@@ -25,7 +25,7 @@ Podrian cambiarse a cualquier rubro
 
 # Adjunto imagenes
 
-![Inicio Sesión](./IReadme/firstPAGE.png)
-![Recupero Contraseña](./IReadme/SecondPage.png)
-![Registro](./IReadme/3PAGE.png)
+![Inicio Sesión](firstPAGE.png)
+![Recupero Contraseña](SecondPage.png)
+![Registro](3PAGE.png)
 
